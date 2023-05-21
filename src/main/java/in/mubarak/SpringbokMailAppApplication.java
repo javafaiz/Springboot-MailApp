@@ -11,7 +11,7 @@ public class SpringbokMailAppApplication {
 
 	@GetMapping
 	public String getMess(){
-		return "Welcome to automated pipelines in jenkins for second onces";
+		return "Welcome to automated pipelines in jenkins for second onces in all environments";
 	}
 
 	public static void main(String[] args) {
